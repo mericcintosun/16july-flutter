@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1 ,
+        "username": "0xmeric.eth" , 
+        "first_name" : "Meriç" ,
+        "last_name" : "Cintosun" , 
+        "phone" : 5309547890 ,
+        "email_address" : "contact@mericcintosun.com" ,
+        "skills" : [
+            "js" , "tailwindcss" , "mongoDB" , "typescript" , "node.js" , "express.js"
+        ],
+        "experience" : true
+    } ,
+    {
+        "id" : 1 ,
+        "username": "metehanyilmaz" , 
+        "first_name" : "Metehan" ,
+        "last_name" : "Yılmaz" , 
+        "phone" : 5313450123 ,
+        "email_address" : "contact@metehanyilmaz.com" ,
+        "skills" : [
+            "php" , "flutter" , "mongoDB" , "dart" , "asp.net" , "c++"
+        ],
+        "experience" : true
+    }
+]
